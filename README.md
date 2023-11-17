@@ -9,8 +9,10 @@ Project Structure:
   5. Display Class Distribution
   6. Display Pixel Value Distributions
   8. Load All Available Images
-  9. Train-Test Split using train_test_split
+  9. Train-Test Split 
   10. Model Definition
   11. Model Compilation
   12. Model Training
   13. Model Evaluation
+
+![download (2)](https://github.com/Palakurthy-Bharadwaj/Histopathologic-Cancer-Detection-using-Deep-Learning/assets/142398433/120874b0-1f85-42bf-bb8f-947a2be3989f)
